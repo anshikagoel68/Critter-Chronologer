@@ -2,8 +2,6 @@
 
 A RESTful scheduling service for a pet care company, built with **Java 21** and **Spring Boot 3.3**. It allows staff to manage customers, their pets, employees, and care schedules through a clean layered API.
 
-> Originally developed as a Udacity Java Developer Nanodegree (JDND) Course 3 project.
-
 ---
 
 ## Features
